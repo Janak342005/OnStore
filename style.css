@@ -193,7 +193,7 @@ nav{
 }
 
 .products:hover{
-    border-bottom: 2px solid crimson;
+    border-bottom: 3px solid crimson;
     border-radius: 5px ;
     transform: translateY(-10px);
 }
