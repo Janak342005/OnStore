@@ -134,13 +134,13 @@ nav{
 }
 #rightcontainer > button{
     width: 12vmax;
-    padding: 2vmax;
+    padding: 1.5vmax;
     color: wheat;
     background-color: crimson;
     border: none;
     border-radius: 2vmax;
     font-family: 'Times New Roman', Times, serif;
-   font-size: medium;
+    font-size: medium;
     cursor: pointer;
     margin-top: 8px;
     margin-left: 2%;
