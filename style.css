@@ -133,14 +133,14 @@ nav{
     margin-left: 2%;
 }
 #rightcontainer > button{
-    width: 11vmax;
-    padding: 5px;
+    width: 12vmax;
+    padding: 1.5vmax;
     color: wheat;
     background-color: crimson;
     border: none;
     border-radius: 2vmax;
     font-family: 'Times New Roman', Times, serif;
-    font-size: x-small;
+   font-size: medium;
     cursor: pointer;
     margin-top: 8px;
     margin-left: 2%;
