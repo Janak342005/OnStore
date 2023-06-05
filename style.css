@@ -308,6 +308,6 @@ footer{
     display: none;
    }
     #leftcontainer>img{
-        margin-right: 0vmax;
+        margin-right: -8vmax;
     }
 }
