@@ -296,10 +296,18 @@ footer{
     margin: 0%;
     font-size: 18px;
    }
+    .products>h4{
+      margin: 8%;
+      font-size: 18px;
+    }
    .right>a{
     font-size: 20px;
+    bottom-margin: 5px;
    }
    #rightcontainer{
     display: none;
    }
+    #leftcontainer>img{
+        margin-right: 0vmax;
+    }
 }
